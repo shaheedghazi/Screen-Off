@@ -10,7 +10,7 @@ A Python script for controlling screen on/off functionality on Windows systems. 
 
 1. Clone or download the repository.
 2. Install Python and the required libraries: `ctypes` and `pynput`.
-3. Run the script to turn off the screen.
+3. Run the main.py to turn off the screen.
 4. Press any key to turn the screen back on and stop the script.
 
 
